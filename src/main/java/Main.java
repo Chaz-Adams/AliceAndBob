@@ -9,6 +9,7 @@ public class Main {
         Main mainObject = new Main();
 
         // call the compute() method on that new object
+        mainObject.compute();
     }
 
     public void compute() {
